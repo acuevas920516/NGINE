@@ -28,7 +28,7 @@
 <body class="container">
 <div class="row">
     <div class="col-md-12" id="buttons" style="position: absolute; top: 75%">
-        <form method="post" id="chanelSelection" action="http://localhost/Web-developer-test/">
+        <form method="post" id="chanelSelection" action="index.php">
             <a id="ch1" class="btn btn-primary">WD_CH_1</a>
             <a id="ch2" class="btn btn-primary">WD_CH_2</a>
             <a id="ch3" class="btn btn-primary">WD_CH_3</a>
